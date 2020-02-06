@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "videos": [
+    { "videourl": "Pichi1", "videotitle": "Pichi1", "date": "Pichi1", "thumbnail": "Pichi1" },
+    { "videourl": "Pichi2", "videotitle": "Pichi2", "date": "Pichi2", "thumbnail": "Pichi2" },
+    { "videourl": "Pichi3", "videotitle": "Pichi3", "date": "Pichi3", "thumbnail": "Pichi3" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
